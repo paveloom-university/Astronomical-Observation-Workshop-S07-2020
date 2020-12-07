@@ -1,5 +1,6 @@
 # User's Makefile
 Makefile
 
-# MIDAS's `.KEY` files
+# MIDAS' files
 *.KEY
+*.plt
