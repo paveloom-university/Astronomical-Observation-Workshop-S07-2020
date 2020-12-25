@@ -4,6 +4,7 @@ Makefile
 # MIDAS' files
 *.KEY
 *.plt
+gcursor.tbl
 
 # Temporary Excel files
 ~*.xlsx

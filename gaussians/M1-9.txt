@@ -1,0 +1,19 @@
+HBeta
+     start         end        center     pixel_value    FWHM
+
+     4837.925     4888.428     4862.939  0.37700E-12   5.4586
+     
+HAlpha
+     start         end        center     pixel_value    FWHM
+
+     6558.455     6573.044     6565.600  0.13000E-11   6.8043
+
+SII 6717
+     start         end        center     pixel_value    FWHM
+
+     6711.965     6727.088     6719.529  0.95400E-14   6.9771
+     
+SII 6731
+     start         end        center     pixel_value    FWHM
+
+     6726.779     6740.976     6733.866  0.14900E-13   6.9611
