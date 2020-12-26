@@ -8,3 +8,6 @@ gcursor.tbl
 
 # Temporary Excel files
 ~*.xlsx
+
+# Temporary Word files
+*Zone.Identifier
