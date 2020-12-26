@@ -1,2 +1,13 @@
 # User's Makefile
 Makefile
+
+# MIDAS' files
+*.KEY
+*.plt
+gcursor.tbl
+
+# Temporary Excel files
+~*.xlsx
+
+# Temporary Word files
+*Zone.Identifier

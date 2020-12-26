@@ -1,0 +1,3 @@
+FS = ","
+define/field D :wave
+define/field R :flux
