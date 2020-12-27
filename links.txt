@@ -1,2 +1,4 @@
 https://web.williams.edu/Astronomy/research/PN/nebulae/search/index.php
+https://web.williams.edu/Astronomy/research/PN/nebulae/exercise1.php
+https://web.williams.edu/Astronomy/research/PN/nebulae/ionpotentials.jpg
 https://web.williams.edu/Astronomy/research/PN/nebulae/exercise3.php
