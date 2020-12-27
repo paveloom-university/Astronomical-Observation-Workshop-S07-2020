@@ -10,4 +10,5 @@ gcursor.tbl
 ~*.xlsx
 
 # Temporary Word files
+~*.docx
 *Zone.Identifier
